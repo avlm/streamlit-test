@@ -1,0 +1,238 @@
+{
+    "6796295b4a2d45106ef07bff": {
+        "product_name": "Luxman L-509Z",
+        "final_score_100": 58.2,
+        "feature_scores_100": {
+            "bass": 54.2,
+            "treble": 56.4,
+            "midrange": 57.5,
+            "clarity": 56.0,
+            "soundstage": 57.5,
+            "dynamics": 70.8,
+            "build quality": 64.2,
+            "value": 56.5,
+            "timbre": 56.0,
+            "transient response": 52.5
+        },
+        "review_count": 5,
+        "processed_urls": [
+            "https://www.hifinews.com/content/luxman-l-509z",
+            "https://hifiplus.com/articles/luxman-l-509z-integrated-amplifier/",
+            "https://audioxpress.com/news/new-luxman-l-509z-flagship-integrated-amplifier",
+            "https://www.theabsolutesound.com/articles/luxman-america-announces-l-509z-long-awaited-flagship-integrated-amp/",
+            "https://www.whathifi.com/reviews/luxman-l-509z"
+        ]
+    },
+    "679650398cfe54456af15a70": {
+        "product_name": "Luxman D-03X CD Player",
+        "final_score_100": 66.3,
+        "feature_scores_100": {
+            "bass": 50,
+            "treble": 50,
+            "midrange": 50,
+            "clarity": 79.0,
+            "soundstage": 50,
+            "dynamics": 50,
+            "build quality": 54.9,
+            "value": 57.9,
+            "timbre": 73.6,
+            "transient response": 50
+        },
+        "review_count": 2,
+        "processed_urls": [
+            "https://www.theabsolutesound.com/articles/luxman-introduces-d-03x-cddigital-media-player/",
+            "https://www.whathifi.com/news/luxman-launches-d-03x-cd-player-with-dac-and-mqa-decoding"
+        ]
+    },
+    "6798c7a53c05b3d49fc6c2c8": {
+        "product_name": "Hana Umami Red Cartridge",
+        "final_score_100": 65.0,
+        "feature_scores_100": {
+            "bass": 56.1,
+            "treble": 57.8,
+            "midrange": 57.4,
+            "clarity": 76.3,
+            "soundstage": 66.0,
+            "dynamics": 71.6,
+            "build quality": 73.4,
+            "value": 69.2,
+            "timbre": 64.5,
+            "transient response": 57.6
+        },
+        "review_count": 7,
+        "processed_urls": [
+            "https://www.hifinews.com/content/hana-umami-red-cartridge",
+            "https://www.audiophilia.com/reviews/2023/12/22/hanaumamired",
+            "https://hifiplus.com/articles/hana-umami-red-moving-coil-cartridge/",
+            "https://www.dagogo.com/musical-surroundings-introduces-hana-umami-red-moving-coil-cartridge/",
+            "https://www.theabsolutesound.com/articles/hana-umami-red-phono-cartridge/",
+            "https://pt.audio/2021/09/03/hana-umami-red-phono-cartridge-review/",
+            "https://10audio.com/umami-red_phonomena-iii/"
+        ]
+    },
+    "67c8a6137e58ee63c7ade8a9": {
+        "product_name": "Wilson Audio SabrinaX Loudspeaker",
+        "final_score_100": 67.8,
+        "feature_scores_100": {
+            "bass": 72.0,
+            "treble": 53.1,
+            "midrange": 67.3,
+            "clarity": 68.7,
+            "soundstage": 70.7,
+            "dynamics": 67.5,
+            "build quality": 66.2,
+            "value": 69.6,
+            "timbre": 66.5,
+            "transient response": 76.0
+        },
+        "review_count": 6,
+        "processed_urls": [
+            "https://www.hifinews.com/content/wilson-audio-sabrinax-loudspeaker",
+            "https://hifiplus.com/articles/wilson-audio-sabrinax-floorstanding-loudspeaker/",
+            "https://www.theabsolutesound.com/articles/wilson-audio-sabrinax-loudspeaker/",
+            "https://pt.audio/2021/04/18/wilson-audio-sabrinax-loudspeakers-review/",
+            "https://www.whathifi.com/reviews/wilson-audio-sabrinax",
+            "https://www.audioholics.com/tower-speaker-reviews/wilson-sabrinax"
+        ]
+    },
+    "67c8ae3c7e58ee63c7ade94b": {
+        "product_name": "Wilson Audio TuneTot Loudspeaker",
+        "final_score_100": 59.8,
+        "feature_scores_100": {
+            "bass": 57.5,
+            "treble": 68.8,
+            "midrange": 53.4,
+            "clarity": 65.3,
+            "soundstage": 58.1,
+            "dynamics": 58.8,
+            "build quality": 74.0,
+            "value": 63.1,
+            "timbre": 58.1,
+            "transient response": 41.2
+        },
+        "review_count": 5,
+        "processed_urls": [
+            "https://www.hifinews.com/content/wilson-audio-tunetot-loudspeaker-lab-report",
+            "https://hifiplus.com/articles/wilson-audio-tunetots-with-tunetot-stands/",
+            "https://www.theabsolutesound.com/articles/wilson-audio-specialties-tunetot/",
+            "https://www.whathifi.com/news/tunetot-wilson-audios-smallest-and-most-affordable-speaker",
+            "https://www.audioholics.com/bookshelf-speaker-reviews/wilson-audio-tunetot-bookshelf-speaker"
+        ]
+    },
+    "67d4897b3a64fd32d4335fb8": {
+        "product_name": "Wilson Audio Alexx V Loudspeaker",
+        "final_score_100": 65.7,
+        "feature_scores_100": {
+            "bass": 62.3,
+            "treble": 54.6,
+            "midrange": 65.4,
+            "clarity": 73.6,
+            "soundstage": 65.0,
+            "dynamics": 62.3,
+            "build quality": 72.2,
+            "value": 64.2,
+            "timbre": 71.9,
+            "transient response": 65.5
+        },
+        "review_count": 5,
+        "processed_urls": [
+            "https://www.hifinews.com/content/wilson-audio-alexx-v-loudspeaker",
+            "https://hifiplus.com/articles/wilson-audio-alexx-v-floorstanding-loudspeakers/",
+            "https://www.theabsolutesound.com/articles/wilson-audio-alexx-v-loudspeaker/",
+            "https://pt.audio/2022/01/21/wilson-audio-alexx-v-review/",
+            "https://www.whathifi.com/news/wilson-audio-alexx-v-floorstanders-adopt-technologies-from-flagship-chronosonic"
+        ]
+    },
+    "67d89d4c3a64fd32d4337c9e": {
+        "product_name": "D'Agostino Progression Integrated Amplifier",
+        "final_score_100": 60.5,
+        "feature_scores_100": {
+            "bass": 55.6,
+            "treble": 50.7,
+            "midrange": 69.8,
+            "clarity": 73.7,
+            "soundstage": 62.5,
+            "dynamics": 62.9,
+            "build quality": 75.9,
+            "value": 58.1,
+            "timbre": 59.0,
+            "transient response": 37.0
+        },
+        "review_count": 4,
+        "processed_urls": [
+            "https://www.hifinews.com/content/dagostino-progression-integrated-integrated-amplifier",
+            "https://positive-feedback.com/reviews/hardware-reviews/dagostino-master-audio-systems-progression-integrated-amplifier/",
+            "https://www.whathifi.com/reviews/dan-dagostino-progression-integrated",
+            "https://www.theabsolutesound.com/articles/dan-dagostino-master-audio-systems-progression-integrated-amplifier/"
+        ]
+    },
+    "67e1d244dc77605399a1a33b": {
+        "product_name": "Børresen X3",
+        "final_score_100": 67.9,
+        "feature_scores_100": {
+            "bass": 61.5,
+            "treble": 64.3,
+            "midrange": 64.8,
+            "clarity": 79.0,
+            "soundstage": 64.8,
+            "dynamics": 82.2,
+            "build quality": 75.6,
+            "value": 71.7,
+            "timbre": 58.7,
+            "transient response": 56.7
+        },
+        "review_count": 6,
+        "processed_urls": [
+            "https://www.fidelity-magazine.com/borresen-x3/",
+            "https://hifiplus.com/articles/borresen-acoustics-x3-floorstanding-loudspeaker/",
+            "https://pt.audio/2023/08/13/borresen-x3-loudspeakers-review/",
+            "https://www.erinsaudiocorner.com/loudspeakers/b%C3%B8rresen_x3/",
+            "https://www.theabsolutesound.com/articles/the-borresen-x3-floor-standing-loudspeaker-review/",
+            "https://the-ear.net/review-hardware/borresen-x3-is-a-smooth-operator/"
+        ]
+    },
+    "67ee0c54062739daa4ff3c99": {
+        "product_name": "McIntosh MC451 Monoblock Power Amplifier",
+        "final_score_100": 63.4,
+        "feature_scores_100": {
+            "bass": 61.0,
+            "treble": 59.0,
+            "midrange": 58.8,
+            "clarity": 55.3,
+            "soundstage": 59.3,
+            "dynamics": 50,
+            "build quality": 75.4,
+            "value": 66.1,
+            "timbre": 72.2,
+            "transient response": 50
+        },
+        "review_count": 4,
+        "processed_urls": [
+            "https://www.theabsolutesound.com/articles/mcintosh-mc451-monoblock-power-amplifier/",
+            "https://hifiplus.com/articles/mcintosh-mc451-amplifier/",
+            "https://www.whathifi.com/news/mcintosh-mc451-mono-power-amp-combines-valve-and-solid-state-in-one-compact-box",
+            "https://www.audiokeyreviews.com/all-news-etc/mcintosh-mr89-tuner-7e6ea-b3rym"
+        ]
+    },
+    "67efea58236e99f886adbdb8": {
+        "product_name": "Bluesound Powernode Gen 3 Streaming DAC and Integrated Amplifier",
+        "final_score_100": 79.3,
+        "feature_scores_100": {
+            "bass": 63.9,
+            "treble": 50,
+            "midrange": 50,
+            "clarity": 91.6,
+            "soundstage": 72.7,
+            "dynamics": 93.2,
+            "build quality": 72.7,
+            "value": 81.5,
+            "timbre": 50,
+            "transient response": 50
+        },
+        "review_count": 2,
+        "processed_urls": [
+            "https://www.theabsolutesound.com/articles/2022-golden-ear-bluesound-powernode-gen-3-streaming-dac-and-integrated-amplifier/",
+            "https://www.whathifi.com/reviews/bluesound-powernode-2021"
+        ]
+    }
+}
